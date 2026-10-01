@@ -1,0 +1,6 @@
+{
+  "name": "Vimbox Tutor",
+  "description": "Интерактивная образовательная платформа в стиле Vimbox: виртуальная комната урока, интерактивная доска с распознаванием фигур, видеосвязь, шпаргалка учителя и генератор тестов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
